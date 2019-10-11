@@ -1,0 +1,15 @@
+C:\Users\lbispo\source\repos\organizadorBilhetesECHService\organizadorBilhetesECHService\bin\Release\organizadorBilhetesECHService.exe.config
+C:\Users\lbispo\source\repos\organizadorBilhetesECHService\organizadorBilhetesECHService\bin\Release\organizadorBilhetesECHService.exe
+C:\Users\lbispo\source\repos\organizadorBilhetesECHService\organizadorBilhetesECHService\bin\Release\organizadorBilhetesECHService.pdb
+C:\Users\lbispo\source\repos\organizadorBilhetesECHService\organizadorBilhetesECHService\bin\Release\log4net.dll
+C:\Users\lbispo\source\repos\organizadorBilhetesECHService\organizadorBilhetesECHService\bin\Release\System.Configuration.ConfigurationManager.dll
+C:\Users\lbispo\source\repos\organizadorBilhetesECHService\organizadorBilhetesECHService\bin\Release\System.Security.AccessControl.dll
+C:\Users\lbispo\source\repos\organizadorBilhetesECHService\organizadorBilhetesECHService\bin\Release\System.Security.Permissions.dll
+C:\Users\lbispo\source\repos\organizadorBilhetesECHService\organizadorBilhetesECHService\bin\Release\System.Security.Principal.Windows.dll
+C:\Users\lbispo\source\repos\organizadorBilhetesECHService\organizadorBilhetesECHService\bin\Release\log4net.xml
+C:\Users\lbispo\source\repos\organizadorBilhetesECHService\organizadorBilhetesECHService\obj\Release\organizadorBilhetesECHService.ProjectInstaller.resources
+C:\Users\lbispo\source\repos\organizadorBilhetesECHService\organizadorBilhetesECHService\obj\Release\organizadorBilhetesECHService.csproj.GenerateResource.cache
+C:\Users\lbispo\source\repos\organizadorBilhetesECHService\organizadorBilhetesECHService\obj\Release\organizadorBilhetesECHService.csproj.CoreCompileInputs.cache
+C:\Users\lbispo\source\repos\organizadorBilhetesECHService\organizadorBilhetesECHService\obj\Release\organizadorBilhetesECHService.csproj.CopyComplete
+C:\Users\lbispo\source\repos\organizadorBilhetesECHService\organizadorBilhetesECHService\obj\Release\organizadorBilhetesECHService.exe
+C:\Users\lbispo\source\repos\organizadorBilhetesECHService\organizadorBilhetesECHService\obj\Release\organizadorBilhetesECHService.pdb

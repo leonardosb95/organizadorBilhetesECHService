@@ -1,0 +1,16 @@
+C:\Users\lbispo\source\repos\organizadorBilhetesECHService\organizadorBilhetesECHService\bin\Debug\organizadorBilhetesECHService.exe.config
+C:\Users\lbispo\source\repos\organizadorBilhetesECHService\organizadorBilhetesECHService\bin\Debug\organizadorBilhetesECHService.exe
+C:\Users\lbispo\source\repos\organizadorBilhetesECHService\organizadorBilhetesECHService\bin\Debug\organizadorBilhetesECHService.pdb
+C:\Users\lbispo\source\repos\organizadorBilhetesECHService\organizadorBilhetesECHService\bin\Debug\log4net.dll
+C:\Users\lbispo\source\repos\organizadorBilhetesECHService\organizadorBilhetesECHService\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\lbispo\source\repos\organizadorBilhetesECHService\organizadorBilhetesECHService\bin\Debug\System.Security.AccessControl.dll
+C:\Users\lbispo\source\repos\organizadorBilhetesECHService\organizadorBilhetesECHService\bin\Debug\System.Security.Permissions.dll
+C:\Users\lbispo\source\repos\organizadorBilhetesECHService\organizadorBilhetesECHService\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\lbispo\source\repos\organizadorBilhetesECHService\organizadorBilhetesECHService\bin\Debug\log4net.xml
+C:\Users\lbispo\source\repos\organizadorBilhetesECHService\organizadorBilhetesECHService\obj\Debug\organizadorBilhetesECHService.csprojAssemblyReference.cache
+C:\Users\lbispo\source\repos\organizadorBilhetesECHService\organizadorBilhetesECHService\obj\Debug\organizadorBilhetesECHService.ProjectInstaller.resources
+C:\Users\lbispo\source\repos\organizadorBilhetesECHService\organizadorBilhetesECHService\obj\Debug\organizadorBilhetesECHService.csproj.GenerateResource.cache
+C:\Users\lbispo\source\repos\organizadorBilhetesECHService\organizadorBilhetesECHService\obj\Debug\organizadorBilhetesECHService.csproj.CoreCompileInputs.cache
+C:\Users\lbispo\source\repos\organizadorBilhetesECHService\organizadorBilhetesECHService\obj\Debug\organizadorBilhetesECHService.csproj.CopyComplete
+C:\Users\lbispo\source\repos\organizadorBilhetesECHService\organizadorBilhetesECHService\obj\Debug\organizadorBilhetesECHService.exe
+C:\Users\lbispo\source\repos\organizadorBilhetesECHService\organizadorBilhetesECHService\obj\Debug\organizadorBilhetesECHService.pdb

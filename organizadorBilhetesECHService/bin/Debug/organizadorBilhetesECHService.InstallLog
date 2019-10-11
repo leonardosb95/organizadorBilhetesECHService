@@ -1,0 +1,13 @@
+﻿Instalando o assembly 'C:\Users\lbispo\source\repos\organizadorBilhetesECHService\organizadorBilhetesECHService\bin\Debug\organizadorBilhetesECHService.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   assemblypath = C:\Users\lbispo\source\repos\organizadorBilhetesECHService\organizadorBilhetesECHService\bin\Debug\organizadorBilhetesECHService.exe
+   logfile = C:\Users\lbispo\source\repos\organizadorBilhetesECHService\organizadorBilhetesECHService\bin\Debug\organizadorBilhetesECHService.InstallLog
+Instalando o serviço organizaBilhetes...
+Serviço organizaBilhetes foi instalado com êxito.
+Criando a origem de EventLog organizaBilhetes no log Application...
+Confirmando o assembly 'C:\Users\lbispo\source\repos\organizadorBilhetesECHService\organizadorBilhetesECHService\bin\Debug\organizadorBilhetesECHService.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   assemblypath = C:\Users\lbispo\source\repos\organizadorBilhetesECHService\organizadorBilhetesECHService\bin\Debug\organizadorBilhetesECHService.exe
+   logfile = C:\Users\lbispo\source\repos\organizadorBilhetesECHService\organizadorBilhetesECHService\bin\Debug\organizadorBilhetesECHService.InstallLog
